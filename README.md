@@ -60,7 +60,7 @@ I love blending **machine learning**, **deep learning**, and **generative AI** t
 
 #### 🧰 DevOps & Databases  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,mysql,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,mysql,mongodb" />
 </p>
 
 ---
