@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hey there, I'm <a href="https://linkedin.com/in/wakshaymohan-sde" target="_blank">Akshay Mohan</a></h1>
-<h3 align="center">💡 AI/ML Engineer | Backend Developer | Tech Explorer</h3>
+<h3 align="center">💡 AI/ML Engineer | Data Scientist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akshay-mohan-k&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
@@ -11,11 +11,10 @@
 ---
 
 ### 🧠 About Me  
-🚀 Passionate **AI/ML Engineer** with a solid foundation in **backend development (Java Spring Boot)** and hands-on experience in **data-driven intelligence systems**.  
-I love blending **machine learning**, **deep learning**, and **generative AI** to build meaningful, production-grade solutions.  
+🚀 Passionate **AI/ML Engineer** with hands-on experience in **data-driven intelligence systems**. I love blending **machine learning**, **deep learning**, and **generative AI** to build meaningful, production-grade solutions.  
 
 - 🌱 Currently exploring **Generative AI**, **Agentic Systems**, and **LangChain/RAG pipelines**  
-- 🧩 Strong in **Python**, **Java**, and **Data Engineering workflows**  
+- 🧩 Strong in **Python**, **ML/DL Models** and **GenAi/Agentic-Ai**  
 - 💬 Ask me about **AI Models, APIs, and Smart Automation**  
 - 📫 Reach me at: **mohanakshaykannur@gmail.com**  
 - ⚡ Fun fact: I see patterns in everything—especially data 😉  
@@ -55,7 +54,7 @@ I love blending **machine learning**, **deep learning**, and **generative AI** t
 
 #### ⚙️ Core Development  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,javascript,react,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,javascript,html,css,git,github" />
 </p>
 
 #### 🧰 DevOps & Databases  
