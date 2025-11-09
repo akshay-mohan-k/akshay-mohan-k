@@ -39,9 +39,7 @@
 ### 🧩 Languages & Tools  
 
 #### 🤖 AI / ML Stack  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,pandas,numpy,matplotlib,seaborn" />
-</p>
+<p align="left"> <!-- skillicons-supported --> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" /> <!-- custom ones --> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" /> </p>
 
 #### 🧠 Generative AI / LLM Tools  
 <p align="left">
