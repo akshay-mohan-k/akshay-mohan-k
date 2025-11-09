@@ -40,7 +40,7 @@
 
 #### 🤖 AI / ML Stack  
 <p align="left"> <!-- skillicons-supported --> 
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" /> 
+  <img src="https://skillicons.dev/icons?i=python,sklearn, tensorflow,pytorch,opencv" /> 
   <!-- custom ones --> 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> 
